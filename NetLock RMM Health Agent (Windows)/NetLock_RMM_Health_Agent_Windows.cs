@@ -193,7 +193,7 @@ namespace NetLock_RMM_Health_Agent_Windows
                         // Run the installer
                         Process installer = new Process();
                         installer.StartInfo.FileName = Application_Paths.c_temp_netlock_installer_path;
-                        installer.StartInfo.Arguments = "fix " + Application_Paths.program_data_server_config_json;
+                        installer.StartInfo.Arguments = $"fix \"{Application_Paths.program_data_server_config_json}\"";
                         installer.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
                         installer.Start();
                         installer.WaitForExit();
