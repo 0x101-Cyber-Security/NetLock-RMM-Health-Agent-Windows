@@ -1,0 +1,28 @@
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\NetLock RMM Health Agent (Windows).exe.config
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\NetLock RMM Health Agent (Windows).exe
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\NetLock RMM Health Agent (Windows).pdb
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.Buffers.dll
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.Memory.dll
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.Numerics.Vectors.dll
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.Text.Json.dll
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.ValueTuple.dll
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.Buffers.xml
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.Memory.xml
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.Numerics.Vectors.xml
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.Text.Json.xml
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\bin\Release\System.ValueTuple.xml
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\obj\Release\NetLock RMM Health Agent (Windows).csproj.AssemblyReference.cache
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\obj\Release\NetLock_RMM_Health_Agent_Windows.ProjectInstaller.resources
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\obj\Release\NetLock RMM Health Agent (Windows).csproj.GenerateResource.cache
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\obj\Release\NetLock RMM Health Agent (Windows).csproj.CoreCompileInputs.cache
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\obj\Release\NetLock .6413ACB5.Up2Date
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\obj\Release\NetLock RMM Health Agent (Windows).exe
+C:\Users\NicoMak\NetLock Root\NetLock-RMM-Health-Agent-Windows\NetLock RMM Health Agent (Windows)\obj\Release\NetLock RMM Health Agent (Windows).pdb

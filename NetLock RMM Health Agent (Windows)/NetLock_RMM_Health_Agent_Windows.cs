@@ -151,11 +151,11 @@ namespace NetLock_RMM_Health_Agent_Windows
                 }
                 catch (Exception ex)
                 {
-                    Logging.Handler.Debug("Check_Health", "Service_Healthy", "False. Failed to start: " + ex.Message);
+                    Logging.Handler.Debug("Check_Health", "Service_Healthy", "False. Failed to start: " + ex.ToString());
                 }
             }
             
-            if (failed_count == 3)
+            if (failed_count == 3 || failed_count > 3)
             {
                 Logging.Handler.Debug("Check_Health", "Service_Healthy", "Not healthy. Attempting reinstallation.");
                 await Check_Connection.Check_Servers();
